@@ -6,3 +6,5 @@ Git tracks changes of files.
 hal
 
 i love hal! 
+
+Creating a new branch is quick.
